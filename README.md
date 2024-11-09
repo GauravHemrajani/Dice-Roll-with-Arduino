@@ -22,4 +22,4 @@ Random Dice Roll: When the button is pressed, a random number between 1 and 6 is
 Display Functions: Individual functions for each number (1 to 6) display the corresponding segments on the 7-segment display.
 
 # Code
-You can find the code in mainCode.txt file!
+You can find the code in mainCode.ino file!
