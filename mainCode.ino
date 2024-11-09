@@ -10,7 +10,7 @@ const int segmentDP = 5;
 const int button = 2;
 
 void setup() {
-  // Set all segment pins as outputs
+// Set all segment pins as outputs
   pinMode(segmentA, OUTPUT);
   pinMode(segmentB, OUTPUT);
   pinMode(segmentC, OUTPUT);
