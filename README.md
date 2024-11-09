@@ -1,5 +1,4 @@
 # Dice-Roll-with-Arduino
-# Project Overview
 Dice Roll with Arduino is an interactive project that simulates a dice roll using an Arduino, a pushbutton, and a 7-segment display. When the pushbutton is pressed, a loading animation is shown on the 7-segment display, followed by a random number between 1 and 6 — simulating a roll of a dice. This project is perfect for beginners looking to improve their understanding of Arduino basics and creating fun, interactive electronic projects.
 
 # How It Works
